@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CokDisiplinliTasarim</string>
+    <string name="sistemi_kapat_txt">Sistemi Kapatın</string>
+    <string name="bt_on_button">Button</string>
+    <string name="bt_on">BT ON</string>
+    <string name="bt_of">BT OF</string>
+    <string name="show_paired_devices">Show Paired Devices</string>
+    <string name="ama_r_makinesi_current">Çamaşır Makinesi Current =</string>
+</resources>
